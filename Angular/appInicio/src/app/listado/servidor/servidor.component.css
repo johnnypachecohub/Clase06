@@ -1,0 +1,11 @@
+.activo {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  background-color: green;
+}
+
+.noactivo {
+  font-family: Arial, Helvetica, sans-serif;
+  color: yellow;
+  background-color: black;
+}
